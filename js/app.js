@@ -127,7 +127,7 @@ $(function() {
 	});
 	var sections = new SectionCollection([
 		new SectionModel({
-			name: 'General',
+			name: 'Principal',
 			categories: new CategoriesCollection([
 				new CategoryModel({
 					name: 'Bairros',
@@ -156,7 +156,7 @@ $(function() {
 			]),
 		}),
 		new SectionModel({
-			name: '4.0',
+			name: 'SAS',
 			categories: new CategoriesCollection([
 				new CategoryModel({
 					name: 'Territórios (Turf)',
