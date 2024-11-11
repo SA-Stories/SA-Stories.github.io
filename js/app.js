@@ -130,28 +130,28 @@ $(function() {
 			name: 'General',
 			categories: new CategoriesCollection([
 				new CategoryModel({
-					name: 'Neighborhoods',
+					name: 'Bairros',
 					icon: 'radar/radar_warehouse.png',
 					enabled: false,
 					url: 'data/neighborhoods.json',
 				}),
 				new CategoryModel({
-					name: 'Neutral',
+					name: 'Zonas Neutras',
 					icon: 'General/glitches.png',
 					enabled: true,
 					url: 'data/neutral.json',
 				}),
 				new CategoryModel({
-					name: 'Automotive',
+					name: 'Oficinas',
 					icon: 'radar/radar_acsr_race_hotring.png',
 					enabled: true,
 					url: 'data/automotive.json',
 				}),
 				new CategoryModel({
-					name: 'Medical',
-					icon: 'radar/radar_hospital.png',
+					name: 'Governamental',
+					icon: 'radar/radar_police_station.png',
 					enabled: true,
-					url: 'data/medical.json',
+					url: 'data/legal.json',
 				}),
 			]),
 		}),
@@ -159,63 +159,34 @@ $(function() {
 			name: '4.0',
 			categories: new CategoriesCollection([
 				new CategoryModel({
-					name: 'Territories',
+					name: 'Territórios (Turf)',
 					icon: 'General/wall-breach.png',
 					enabled: true,
-					url: 'data/territories.4.json',
+					url: 'data/territories.json',
 				}),
 				new CategoryModel({
-					name: 'Weed Turf',
+					name: 'Zonas de Venda',
 					icon: 'radar/radar_weed_stash.png',
 					enabled: true,
 					url: 'data/weed_turf.json',
 				}),
 				new CategoryModel({
-					name: 'Heists',
+					name: 'Roubos',
 					icon: 'radar/radar_heist.png',
 					enabled: true,
-					url: 'data/heists.4.json',
+					url: 'data/heists.json',
 				}),
 				new CategoryModel({
-					name: 'Legal',
+					name: 'Organizações',
 					icon: 'radar/radar_police_station.png',
 					enabled: true,
-					url: 'data/legal.4.json',
+					url: 'data/legal.json',
 				}),
 				new CategoryModel({
-					name: 'Restaurants',
+					name: 'Restaurantes',
 					icon: 'radar/radar_bar.png',
 					enabled: true,
-					url: 'data/restaurants.4.json',
-				}),
-			]),
-		}),
-		new SectionModel({
-			name: '3.0',
-			categories: new CategoriesCollection([
-				new CategoryModel({
-					name: 'Territories',
-					icon: 'General/wall-breach.png',
-					enabled: false,
-					url: 'data/territories.3.json',
-				}),
-				new CategoryModel({
-					name: 'Heists',
-					icon: 'radar/radar_heist.png',
-					enabled: false,
-					url: 'data/heists.3.json',
-				}),
-				new CategoryModel({
-					name: 'Legal',
-					icon: 'radar/radar_police_station.png',
-					enabled: false,
-					url: 'data/legal.3.json',
-				}),
-				new CategoryModel({
-					name: 'Restaurants',
-					icon: 'radar/radar_bar.png',
-					enabled: false,
-					url: 'data/restaurants.3.json',
+					url: 'data/restaurants.json',
 				}),
 			]),
 		}),
@@ -614,13 +585,13 @@ $(function() {
 });
 
 function printArray() {
-	var msg = 'Submit new regions here:\n'
-	+ 'https://github.com/skyrossm/np-gangmap/issues\n\n'
-	+ 'Right click the map to add points to the region. You may have to toggle regions off to be able to right click on the bottom layer. Fill in the values marked "<edit here>" and title the new issue using the format: "Add <title> region". Copy and paste everything below this. If your browser does not support selecting the text below press F12 to open the developer console and copy it from there. (scroll down)\n\n';
+	var msg = 'Envie novas solicitações por aqui:\n'
+	+ 'https://github.com/SA-Stories/SA-Stories.github.io/pulls\n\n'
+	+ 'Clique com o botão direito do mouse no mapa para adicionar pontos à região.Pode ser necessário eliminar regiões para poder clicar com o botão direito do mouse na camada inferior.Preencha os valores marcados "<editar aqui>" e tite o novo problema usando o formato: "Add <title> região".Copie e cole tudo abaixo disso. Se o seu navegador não suportar a seleção do texto abaixo, pressione F12 para abrir o console do desenvolvedor e copiá -lo a partir daí.(role para baixo)\n\n';
 	msg += '```json\n\t{\n\t\t"type": "Territories",'
 	+ '\n\t\t"title": "<edit this>",'
 	+ '\n\t\t"notes": "<edit this>",'
-	+ '\n\t\t"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",'
+	+ '\n\t\t"wiki_link": "https://sastories.fandom.com/wiki/<edit this>",'
 	+ '\n\t\t"order": 0,'
 	+ '\n\t\t"strokecolor": "FF0000",'
 	+ '\n\t\t"fillcolor": "FF0000",'
