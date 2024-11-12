@@ -1,3 +1,88 @@
 [
-	
+    {
+		"title": "Davis Sheriff Department",
+		"notes": "O departamento de Sheriff da cidade encorporada de Davis, ela é a referência para a região Sul de Los Santos",
+		"wiki_link": "https://sastories.fandom.com/wiki/davissd",
+		"order": 0,
+		"strokecolor": "3CB371",
+		"fillcolor": "3CB371",
+		"latlngarray": [
+			{"lat": -72.823, "lng": -4.111},
+			{"lat": -73.087, "lng": -4.935},
+			{"lat": -73.575, "lng": -2.903},
+			{"lat": -73.334, "lng": -2.145}
+		]
+	},
+    {
+		"title": "El Burro Sheriff Station",
+		"notes": "Estação de Sheriff de El Burro, uma pequena estação localizada no Leste de Los Santos",
+		"wiki_link": "https://sastories.fandom.com/wiki/elburrosd",
+		"order": 1,
+		"strokecolor": "3CB371",
+		"fillcolor": "3CB371",
+		"latlngarray": [
+			{"lat": -74.567, "lng": 26.728},
+			{"lat": -75.008, "lng": 26.892},
+			{"lat": -75.031, "lng": 28.145},
+			{"lat": -74.613, "lng": 27.925}
+		]
+	},
+	{
+		"title": "Pillbox Hill Hospital",
+		"notes": "O principal hospital da cidade, localizado em Downtown Los Santos, é referência na área de saúde",
+		"wiki_link": "https://sastories.fandom.com/wiki/pillboxhill",
+		"order": 2,
+		"strokecolor": "BC8F8F",
+		"fillcolor": "BC8F8F",
+		"latlngarray": [
+			{"lat": -62.484, "lng": -7.272},
+			{"lat": -62.957, "lng": -4.723},
+			{"lat": -61.796, "lng": -3.229},
+			{"lat": -61.629, "lng": -6.415}
+		]
+	},
+	{
+		"title": "St. Fiacre Hospital",
+		"notes": "Hospital localizado em East Los Santos, referëncia na área de cirurgias e transplantes",
+		"wiki_link": "https://sastories.fandom.com/wiki/stfiacre",
+		"order": 3,
+		"strokecolor": "BC8F8F",
+		"fillcolor": "BC8F8F",
+		"latlngarray": [
+			{"lat": -71.735, "lng": 16.874},
+			{"lat": -73.194, "lng": 17.231},
+			{"lat": -72.744, "lng": 20.417},
+			{"lat": -72.402, "lng": 20.242},
+			{"lat": -72.375, "lng": 18.594},
+			{"lat": -71.739, "lng": 18.198}
+		]
+	},
+	{
+		"title": "Fire Station #7",
+		"notes": "Uma estação dos Bombeiros de Los Santos localizada em East LS, também é base para novos cadetes",
+		"wiki_link": "https://sastories.fandom.com/wiki/eastlsfd",
+		"order": 4,
+		"strokecolor": "FF4500",
+		"fillcolor": "FF4500",
+		"latlngarray": [
+			{"lat": -71.739, "lng": 18.594},
+			{"lat": -72.282, "lng": 18.835},
+			{"lat": -72.248, "lng": 21.714},
+			{"lat": -71.753, "lng": 21.143}
+		]
+	},
+	{
+		"title": "Davis Fire Department",
+		"notes": "O departamento de Bombeiros da cidade encorporada de Davis, ela é a referência para a região Sul de Los Santos",
+		"wiki_link": "https://sastories.fandom.com/wiki/davisfd",
+		"order": 5,
+		"strokecolor": "FF4500",
+		"fillcolor": "FF4500",
+		"latlngarray": [
+			{"lat": -73.255, "lng": -8.955},
+			{"lat": -73.513, "lng": -9.735},
+			{"lat": -73.761, "lng": -8.834},
+			{"lat": -73.475, "lng": -8.021}
+		]
+	}
 ]
