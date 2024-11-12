@@ -1,3 +1,30 @@
 [
-	
+    {
+		"title": "Auto Repairs",
+		"notes": "Uma oficina humilde em Mirror Park, especializada em reparos e consertos, também faz revisões periodicas em veículos",
+		"wiki_link": "https://sastories.fandom.com/wiki/autorepairs",
+		"order": 0,
+		"strokecolor": "836FFF",
+		"fillcolor": "836FFF",
+		"latlngarray": [
+			{"lat": -64.548, "lng": 17.518},
+			{"lat": -65.150, "lng": 17.397},
+			{"lat": -65.145, "lng": 18.705},
+			{"lat": -64.515, "lng": 19.243}
+		]
+	},
+    {
+		"title": "Star Screamers",
+		"notes": "Uma humilde oficina especializada em tunagem e performance, localizada no porto de Los Santos",
+		"wiki_link": "https://sastories.fandom.com/wiki/starscreamers",
+		"order": 1,
+		"strokecolor": "00BFFF",
+		"fillcolor": "00BFFF",
+		"latlngarray": [
+			{"lat": -79.526, "lng": -13.017},
+			{"lat": -79.684, "lng": -13.017},
+			{"lat": -79.690, "lng": -14.115},
+			{"lat": -79.492, "lng": -13.962}
+		]
+	}
 ]
