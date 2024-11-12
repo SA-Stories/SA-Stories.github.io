@@ -1,3 +1,100 @@
 [
-	
+    {
+		"title": "Club 77",
+		"notes": "Uma balada bem descolada para os amantes de músicas mais aceleradas",
+		"wiki_link": "https://sastories.fandom.com/wiki/club77",
+		"order": 0,
+		"strokecolor": "A020F0",
+		"fillcolor": "A020F0",
+		"latlngarray": [
+			{"lat": -82.160, "lng": -9.355},
+			{"lat": -82.498, "lng": -9.431},
+			{"lat": -82.501, "lng": -6.970},
+			{"lat": -82.134, "lng": -7.036}
+		]
+	},
+    {
+		"title": "Bahamas Mamas",
+		"notes": "Uma balada mais baixa renda, localizada em Rancho no subúrbio de Los Santos",
+		"wiki_link": "https://sastories.fandom.com/wiki/bahamasmamas",
+		"order": 1,
+		"strokecolor": "A020F0",
+		"fillcolor": "A020F0",
+		"latlngarray": [
+			{"lat": -77.089, "lng": -5.428},
+			{"lat": -77.179, "lng": -4.472},
+			{"lat": -77.066, "lng": -3.461},
+			{"lat": -76.883, "lng": -4.516}
+		]
+	},
+    {
+		"title": "Tequilala",
+		"notes": "Uma balada mais baixa renda, localizada em Rancho no subúrbio de Los Santos",
+		"wiki_link": "https://sastories.fandom.com/wiki/tequilala",
+		"order": 2,
+		"strokecolor": "A020F0",
+		"fillcolor": "A020F0",
+		"latlngarray": [
+			{"lat": -74.374, "lng": 9.640},
+			{"lat": -74.407, "lng": 10.651},
+			{"lat": -74.665, "lng": 10.673},
+			{"lat": -74.673, "lng": 9.541}
+		]
+	},
+    {
+		"title": "Matrix Club",
+		"notes": "Uma balada bem descolada para os amantes de músicas mais aceleradas e techno",
+		"wiki_link": "https://sastories.fandom.com/wiki/matrixclub",
+		"order": 3,
+		"strokecolor": "A020F0",
+		"fillcolor": "A020F0",
+		"latlngarray": [
+			{"lat": -68.597, "lng": 10.177},
+			{"lat": -68.915, "lng": 10.199},
+			{"lat": -68.884, "lng": 11.781},
+			{"lat": -68.549, "lng": 11.781}
+		]
+	},
+    {
+		"title": "Mvdusa Club",
+		"notes": "Uma balada de luxo para os amantes de músicas mais aceleradas e techno",
+		"wiki_link": "https://sastories.fandom.com/wiki/mvdusaclub",
+		"order": 4,
+		"strokecolor": "A020F0",
+		"fillcolor": "A020F0",
+		"latlngarray": [
+			{"lat": -61.143, "lng": 7.092},
+			{"lat": -62.226, "lng": 7.158},
+			{"lat": -62.072, "lng": 5.950},
+			{"lat": -61.079, "lng": 6.279}
+		]
+	},
+    {
+		"title": "Honkers",
+		"notes": "Um local para conhecer pessoas, ou relaxar com uma boa massagem",
+		"wiki_link": "https://sastories.fandom.com/wiki/honkers",
+		"order": 5,
+		"strokecolor": "FF1493",
+		"fillcolor": "FF1493",
+		"latlngarray": [
+			{"lat": -72.248, "lng": -18.388},
+			{"lat": -71.917, "lng": -17.531},
+			{"lat": -71.746, "lng": -18.586},
+			{"lat": -71.999, "lng": -19.399}
+		]
+	},
+    {
+		"title": "Vanilla Unicorn",
+		"notes": "Um local para conhecer pessoas, ou relaxar com uma boa massagem",
+		"wiki_link": "https://sastories.fandom.com/wiki/vanillaunicorn",
+		"order": 6,
+		"strokecolor": "FF1493",
+		"fillcolor": "FF1493",
+		"latlngarray": [
+			{"lat": -70.202, "lng": -12.431},
+			{"lat": -70.494, "lng": -12.024},
+			{"lat": -70.254, "lng": -10.508},
+			{"lat": -70.060, "lng": -10.761}
+		]
+	}
 ]
