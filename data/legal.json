@@ -84,5 +84,19 @@
 			{"lat": -73.761, "lng": -8.834},
 			{"lat": -73.475, "lng": -8.021}
 		]
+	},
+	{
+		"title": "La Puerta Aero Bureau",
+		"notes": "Estação de Sheriff de El Burro, uma pequena estação localizada em La Puerta focada na parte da Aero Bureau",
+		"wiki_link": "https://sastories.fandom.com/wiki/lapuertasd",
+		"order": 6,
+		"strokecolor": "3CB371",
+		"fillcolor": "3CB371",
+		"latlngarray": [
+			{"lat": -72.206, "lng": -36.018},
+			{"lat": -72.377, "lng": -35.798},
+			{"lat": -72.522, "lng": -37.007},
+			{"lat": -72.353, "lng": -37.216}
+		]
 	}
 ]
