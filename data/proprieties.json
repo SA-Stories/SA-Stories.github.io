@@ -1,3 +1,86 @@
 [
-	
+    {
+		"title": "Fantastic Place",
+		"notes": "<edit this>",
+		"wiki_link": "https://sastories.fandom.com/wiki/fantasticplace",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -67.870, "lng": -5.650},
+			{"lat": -68.435, "lng": -5.661},
+			{"lat": -68.443, "lng": -5.001},
+			{"lat": -67.887, "lng": -5.012}
+		]
+	},
+    {
+		"title": "Textile City Bar",
+		"notes": "<edit this>",
+		"wiki_link": "https://sastories.fandom.com/wiki/textilecitybar",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -64.805, "lng": -1.512},
+			{"lat": -64.773, "lng": -0.984},
+			{"lat": -64.504, "lng": -0.962},
+			{"lat": -64.466, "lng": -1.523}
+		]
+	},
+    {
+		"title": "Lucky Plucker",
+		"notes": "<edit this>",
+		"wiki_link": "https://sastories.fandom.com/wiki/luckyplucker",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -71.883, "lng": -11.577},
+			{"lat": -72.131, "lng": -10.610},
+			{"lat": -71.945, "lng": -9.973},
+			{"lat": -71.670, "lng": -10.962}
+		]
+	},
+	{
+		"title": "Burger Shot",
+		"notes": "<edit this>",
+		"wiki_link": "https://sastories.fandom.com/wiki/burgershot",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -75.815, "lng": -24.442},
+			{"lat": -75.856, "lng": -24.750},
+			{"lat": -75.912, "lng": -24.387},
+			{"lat": -75.856, "lng": -24.069}
+		]
+	},
+	{
+		"title": "Irish Pub",
+		"notes": "<edit this>",
+		"wiki_link": "https://sastories.fandom.com/wiki/irishpub",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -54.918, "lng": 9.831},
+			{"lat": -55.201, "lng": 9.469},
+			{"lat": -54.968, "lng": 8.711},
+			{"lat": -54.620, "lng": 8.986}
+		]
+	},
+    {
+		"title": "Downtown Cab Co.",
+		"notes": "A principal empresa responsável pelos táxis de Los Santos",
+		"wiki_link": "https://sastories.fandom.com/wiki/downtowncabco",
+		"order": 0,
+		"strokecolor": "FFFF00",
+		"fillcolor": "FFFF00",
+		"latlngarray": [
+			{"lat": -55.352, "lng": 11.045},
+			{"lat": -55.928, "lng": 10.408},
+			{"lat": -56.265, "lng": 11.385},
+			{"lat": -55.743, "lng": 11.935}
+		]
+	}
 ]
